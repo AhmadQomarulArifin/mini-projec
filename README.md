@@ -2,9 +2,9 @@
 nama : ahmad qomarul arifin 
 nim : 2409116114
 ![image](https://github.com/user-attachments/assets/f1c993af-8fd8-47d3-afc2-07edbb56e8c9)
-![image](https://github.com/user-attachments/assets/9a990f72-5337-478c-82b2-63abaf5acbac)
-![image](https://github.com/user-attachments/assets/0e52b803-3566-4df2-b466-8da2814b85a3)
-![image](https://github.com/user-attachments/assets/81e3a572-e9fe-403e-aead-32b7c3fa16aa)
+![image](https://github.com/user-attachments/assets/08dfc612-a198-4482-b22e-5599a8fb6120)
+![image](https://github.com/user-attachments/assets/367dc9c1-649b-4a6a-ae89-d166227349e9)
+![image](https://github.com/user-attachments/assets/5b2a78e5-192c-4f4e-aabc-30a08b7c6a10)
 penjelasan :
 1.pertama mulai untuk memulai progam
 2.masukkan input nama dan nim untuk login
