@@ -16,7 +16,7 @@ while True:
 
     # Menentukan apakah total harga lebih dari Rp. 250.000 dan memberikan diskon
     if total_harga > 250000:
-        total_harga *= 0.75  # Memberikan diskon 25%
+        total_harga *= 0.25  # Memberikan diskon 25%
         print("Anda mendapatkan diskon 25%")
         print(f" uang yang anda keluarkan dari dompet anda yaitu sebesar: Rp. {total_harga:.2f}")
     else:
@@ -25,7 +25,7 @@ while True:
         
 
     # Menanyakan apakah ingin menghitung lagi atau keluar
-    pilihan = input("Apakah ingin menghitung lagi? (ya/tidak): ").lower()
+    pilihan = input("Apakah ingin menghitung lagi? (ya/tidak): ").
     if pilihan != "ya":
         print("Terima kasih telah berkunjung di indomaret sultan.")
         break
